@@ -20,3 +20,8 @@ The vision of this platform is to provide a reliable and decentralized way of su
 - **Scalability:** Can be expanded to support multiple causes and cryptocurrencies.
 - **Easy Setup:** Simple functions for creating and donating to charitable causes.
 
+## Contract Address
+0xf1b14067b5846f6149197f0ffdb0e38826b8f5e9334f10baec049357d0527b09
+![image](https://github.com/user-attachments/assets/5e7aa891-f683-4ad9-9e6d-bf6101b534f2)
+---
+
