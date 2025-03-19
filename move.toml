@@ -1,0 +1,15 @@
+[package]
+name = "CharityGivingPlatform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x68a092a86bae8288b1b58c49dcd5c676890cfd16889afa70dc904567a0c37cc"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
